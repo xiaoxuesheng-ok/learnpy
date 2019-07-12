@@ -1,4 +1,4 @@
-http://c.biancheng.net/view/2747.html
+
 
 下面大致介绍这些目录和文件的作用：
 scrapy.cfg：项目的总配置文件，通常无须修改。
